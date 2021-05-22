@@ -1,4 +1,4 @@
-# Simple-POS-Java-Point-of-Sale-Project
+# "Simple POS" a very Simple Java Point-of-Sale Project
 Simple Java-based point of sale application. 
 
 This is a simple java-based POS application that allows the handling of sessions, shifts, shopping carts, and store item registry.  It allows the printing of reciepts, cash ups, serialization of sessions the user wants to continue adding to later, and user-editable configuration files.
