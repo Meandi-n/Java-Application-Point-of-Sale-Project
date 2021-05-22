@@ -5,6 +5,18 @@ This is a simple java-based POS application that allows the handling of sessions
 
 When launched, the application displays a new Session page that is optimised for touch-screen use.  The user may select "continue shift" which will recover a serialized session instance made prior, or they may select "new shift" which will create a new shift instance.  The shift instance contains a list of all "carts" or transactions.
 
+![new-session-page](https://ibb.co/hDnL2bq)
+
+
+https://ibb.co/YZ5c8M1
+https://ibb.co/Bz32v1b
+https://ibb.co/ZGyZjVt
+https://ibb.co/Ytv4QxW
+https://ibb.co/QDPKDYx
+https://ibb.co/zVsg8pW
+https://ibb.co/hDnL2bq
+https://ibb.co/LhckfTw
+
 The next interface is the shift operations interface.  This interface allows the user to open a new "cart", perform a refund by negating cart ID, force a cash-only refund, or serialise the current shift.  Serializaion of the current shift will save a serial file with the current date and time in the program directory.  
 
 The new cart interface is the most detailed interface of the application.  It handles the addition of categorised items to the current cart, the editing of said items, and the processing of payment.  
