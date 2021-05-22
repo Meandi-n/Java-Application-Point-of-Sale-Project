@@ -13,9 +13,9 @@ This is a simple java-based POS application that allows the handling of sessions
 
 |                                 Simple POS               |  favours simplicity                                                   |   
 |----------------------------------------------------------|----------------------------------------------------------------|
-| ☑ Simple interface with essential functionality          | '𐤕' Advanced features like mixed cash & card payment             | 
-| ☑ Simple and flexible categorising of products           | '𐤕' Tracking stock levels and reading barcodes                   |
-| ☑ Takes minutes to setup and requires minimal training   | '𐤕' Complex features like item-codes, staff authentication, etc. |
+| ☑ Simple interface with essential functionality          | `𐤕` Advanced features like mixed cash & card payment             | 
+| ☑ Simple and flexible categorising of products           | `𐤕` Tracking stock levels and reading barcodes                   |
+| ☑ Takes minutes to setup and requires minimal training   | `𐤕` Complex features like item-codes, staff authentication, etc. |
 
 ## 1. The Session Page 
 
