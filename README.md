@@ -5,6 +5,7 @@ This is a simple java-based POS application that allows the handling of sessions
 
 ### Contents 
 * [1. The Session Page](#session-page)
+* [1. The Session Page](#1. The Session Page)
 
 ## 1. The Session Page 
 
