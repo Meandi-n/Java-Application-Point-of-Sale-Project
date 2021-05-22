@@ -11,6 +11,7 @@ This is a simple java-based POS application that allows the handling of sessions
 * [5. Closing shift and obtaining a "cash up"](#cash-up)
 * [6. Using configuration files](#config)
 
+<a name="session-page"/a>
 ## 1. The Session Page 
 
 When launched, the application displays a new Session page that is optimised for touch-screen use.  The user may select "continue shift" which will recover a serialized session instance made prior, or they may select "new shift" which will create a new shift instance.  The shift instance contains a list of all "carts" or transactions.
