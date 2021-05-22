@@ -4,14 +4,13 @@ Simple Java-based point of sale application.
 This is a simple java-based POS application that allows the handling of sessions, shifts, shopping carts, and store item registry.  It allows the printing of reciepts, cash ups, serialization of sessions the user wants to continue adding to later, and user-editable configuration files.
 
 ### Contents 
-* [1. The Session Page](#session-page)
-* [2. The Shift Operations Page](#operations-page)
-* [3. Opening a new Cart](#new-cart)
-* [4. Refund Page](#refund-page)
-* [5. Closing shift and obtaining a "cash up"](#cash-up)
-* [6. Using configuration files](#config)
+- [1. The Session Page](#1.-the-session-page)
+- [2. The Shift Operations Page](#2.-the-shift-operations-page)
+- [3. Opening a new Cart](#new-cart)
+- [4. Refund Page](#refund-page)
+- [5. Closing shift and obtaining a "cash up"](#cash-up)
+- [6. Using configuration files](#config)
 
-<a name="session-page"/a>
 ## 1. The Session Page 
 
 When launched, the application displays a new Session page that is optimised for touch-screen use.  The user may select "continue shift" which will recover a serialized session instance made prior, or they may select "new shift" which will create a new shift instance.  The shift instance contains a list of all "carts" or transactions.
