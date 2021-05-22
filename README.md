@@ -6,16 +6,13 @@ This is a simple java-based POS application that allows the handling of sessions
 When launched, the application displays a new Session page that is optimised for touch-screen use.  The user may select "continue shift" which will recover a serialized session instance made prior, or they may select "new shift" which will create a new shift instance.  The shift instance contains a list of all "carts" or transactions.
 
 ![new-session-page](https://i.ibb.co/0hWmYTw/Session-Start-Page.jpg)
+![new-session-page](https://i.ibb.co/0t0CZS6/CartPage.jpg)
+![new-session-page](https://i.ibb.co/ZLXzvZ5/Configuration-Options.jpg)
+![new-session-page](https://i.ibb.co/Qps5gfz/force-Refund-Page.jpg)
+![new-session-page](https://i.ibb.co/THzD2sT/Reciept-Storage.jpg)
+![new-session-page](https://i.ibb.co/0hWmYTw/Session-Start-Page.jpg)
+![new-session-page](https://i.ibb.co/5xSMVQD/Shift-Operations-Page.jpg)
 
-
-<a href="https://ibb.co/YZ5c8M1"><img src="https://i.ibb.co/0t0CZS6/CartPage.jpg" alt="CartPage" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZLXzvZ5/Configuration-Options.jpg" alt="Configuration-Options" border="0"></a>
-<a href="https://ibb.co/ZGyZjVt"><img src="https://i.ibb.co/Qps5gfz/force-Refund-Page.jpg" alt="force-Refund-Page" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/THzD2sT/Reciept-Storage.jpg" alt="Reciept-Storage" border="0"></a>
-<a href="https://ibb.co/QDPKDYx"><img src="https://i.ibb.co/rdxwd5X/Reciept-Page.jpg" alt="Reciept-Page" border="0"></a>
-<a href="https://ibb.co/zVsg8pW"><img src="https://i.ibb.co/pj2TWc6/refund-Page.jpg" alt="refund-Page" border="0"></a>
-<a href="https://ibb.co/hDnL2bq"><img src="https://i.ibb.co/0hWmYTw/Session-Start-Page.jpg" alt="Session-Start-Page" border="0"></a>
-<a href="https://ibb.co/LhckfTw"><img src="https://i.ibb.co/5xSMVQD/Shift-Operations-Page.jpg" alt="Shift-Operations-Page" border="0"></a>
 
 The next interface is the shift operations interface.  This interface allows the user to open a new "cart", perform a refund by negating cart ID, force a cash-only refund, or serialise the current shift.  Serializaion of the current shift will save a serial file with the current date and time in the program directory.  
 
