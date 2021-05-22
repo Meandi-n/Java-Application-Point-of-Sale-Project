@@ -11,6 +11,7 @@ This is a simple java-based POS application that allows the handling of sessions
 - [5. Closing shift and obtaining a "cash up"](#5-closing-a-shift-and-obtaining-a-cash-up)
 - [6. Using configuration files](#6-using-configuration-files)
 
+|----------------------------------------------------------|:-------------------------------------------------------------:|
 | ☑ Simple interface with essential functionality         | 𐤕 Advanced features like mixed cash & card payment             | 
 | ☑ Simple and flexible categorising of products          | 𐤕 Tracking stock levels and reading barcodes                   |
 | ☑ Takes minutes to setup and requires minimal training  | 𐤕 Complex features like item-codes, staff authentication, etc. |
