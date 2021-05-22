@@ -5,7 +5,11 @@ This is a simple java-based POS application that allows the handling of sessions
 
 ### Contents 
 * [1. The Session Page](#session-page)
-* [1. The Session Page](#1. The Session Page)
+* [2. The Shift Operations Page](#operations-page)
+* [3. Opening a new Cart](#new-cart)
+* [4. Refund Page](#refund-page)
+* [5. Closing shift and obtaining a "cash up"](#cash-up)
+* [6. Using configuration files](#config)
 
 ## 1. The Session Page 
 
