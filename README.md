@@ -11,6 +11,10 @@ This is a simple java-based POS application that allows the handling of sessions
 - [5. Closing shift and obtaining a "cash up"](#5-closing-a-shift-and-obtaining-a-cash-up)
 - [6. Using configuration files](#6-using-configuration-files)
 
+| ☑ Simple interface with essential functionality         | 𐤕 Advanced features like mixed cash & card payment             | 
+| ☑ Simple and flexible categorising of products          | 𐤕 Tracking stock levels and reading barcodes                   |
+| ☑ Takes minutes to setup and requires minimal training  | 𐤕 Complex features like item-codes, staff authentication, etc. |
+
 ## 1. The Session Page 
 
 When launched, the application displays a new Session page that is optimised for touch-screen use.  The user may select "continue shift" which will recover a serialized session instance made prior, or they may select "new shift" which will create a new shift instance.  The shift instance contains a list of all "carts" or transactions.
