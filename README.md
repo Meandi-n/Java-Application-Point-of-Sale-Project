@@ -4,12 +4,12 @@ Simple Java-based point of sale application.
 This is a simple java-based POS application that allows the handling of sessions, shifts, shopping carts, and store item registry.  It allows the printing of reciepts, cash ups, serialization of sessions the user wants to continue adding to later, and user-editable configuration files.
 
 ### Contents 
-- [1. The Session Page](#1.-the-session-page)
-- [2. The Shift Operations Page](#2.-the-shift-operations-page)
-- [3. Opening a new Cart](#new-cart)
-- [4. Refund Page](#refund-page)
-- [5. Closing shift and obtaining a "cash up"](#cash-up)
-- [6. Using configuration files](#config)
+- [1. The Session Page](#1-the-session-page)
+- [2. The Shift Operations Page](#2-the-shift-operations-page)
+- [3. Opening a new Cart](#3-opening-a-new-cart)
+- [4. Refund Page](#4-refund-page)
+- [5. Closing shift and obtaining a "cash up"](#5-closing-a-shift-and-obtaining-a-cash-up)
+- [6. Using configuration files](#6-using-configuration-files)
 
 ## 1. The Session Page 
 
@@ -55,7 +55,7 @@ The forced refund option does not remove the previous transaction from the shift
 
 ![forced-refund-page](https://i.ibb.co/Qps5gfz/force-Refund-Page.jpg)
 
-## 5. Closing a shift and obtaining a "cash up" 
+## 5. Closing a shift and obtaining a cash up
 
 The closing of the shift via the button on the top right will display a shift "cash up" on screen.  This may be printed or skipped.  If skipped, it may still be retrieved at a later date by navigating to the HTML file stored in the program folder that corresponds to the shift.  This HTML file will be labeled with the shift start date and start time.  Further, the shift "cash up" will show the total EFTPOS, cash, and customer credit total.  Customer credit is not a feature currently implemented. 
 
